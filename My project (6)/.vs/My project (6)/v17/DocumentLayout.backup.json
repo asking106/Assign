@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My project (6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618AA404-C303-DC6A-AA05-B45F03D8038B}|Assembly-CSharp.csproj|d:\\my project (6)\\assets\\ap\\assets\\script\\objects\\objtranslaterotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618AA404-C303-DC6A-AA05-B45F03D8038B}|Assembly-CSharp.csproj|solutionrelative:assets\\ap\\assets\\script\\objects\\objtranslaterotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618AA404-C303-DC6A-AA05-B45F03D8038B}|Assembly-CSharp.csproj|d:\\my project (6)\\assets\\ap\\assets\\script\\objects\\_orderinlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618AA404-C303-DC6A-AA05-B45F03D8038B}|Assembly-CSharp.csproj|solutionrelative:assets\\ap\\assets\\script\\objects\\_orderinlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618AA404-C303-DC6A-AA05-B45F03D8038B}|Assembly-CSharp.csproj|d:\\my project (6)\\assets\\ap\\assets\\script\\other\\gizmoscube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618AA404-C303-DC6A-AA05-B45F03D8038B}|Assembly-CSharp.csproj|solutionrelative:assets\\ap\\assets\\script\\other\\gizmoscube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "objTranslateRotate.cs",
+              "DocumentMoniker": "D:\\My project (6)\\Assets\\AP\\Assets\\Script\\Objects\\objTranslateRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\AP\\Assets\\Script\\Objects\\objTranslateRotate.cs",
+              "ToolTip": "D:\\My project (6)\\Assets\\AP\\Assets\\Script\\Objects\\objTranslateRotate.cs",
+              "RelativeToolTip": "Assets\\AP\\Assets\\Script\\Objects\\objTranslateRotate.cs",
+              "ViewState": "AgIAAEcEAAAAAAAAAAAAAGMEAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:06:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_OrderInLayer.cs",
+              "DocumentMoniker": "D:\\My project (6)\\Assets\\AP\\Assets\\Script\\Objects\\_OrderInLayer.cs",
+              "RelativeDocumentMoniker": "Assets\\AP\\Assets\\Script\\Objects\\_OrderInLayer.cs",
+              "ToolTip": "D:\\My project (6)\\Assets\\AP\\Assets\\Script\\Objects\\_OrderInLayer.cs",
+              "RelativeToolTip": "Assets\\AP\\Assets\\Script\\Objects\\_OrderInLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:05:48.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gizmosCube.cs",
+              "DocumentMoniker": "D:\\My project (6)\\Assets\\AP\\Assets\\Script\\Other\\gizmosCube.cs",
+              "RelativeDocumentMoniker": "Assets\\AP\\Assets\\Script\\Other\\gizmosCube.cs",
+              "ToolTip": "D:\\My project (6)\\Assets\\AP\\Assets\\Script\\Other\\gizmosCube.cs",
+              "RelativeToolTip": "Assets\\AP\\Assets\\Script\\Other\\gizmosCube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:05:18.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
